@@ -1,0 +1,19 @@
+{
+  "name": "testchlad",
+  "version": "1.0.0",
+  "description": "test rep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadka1313/testchlad.git"
+  },
+  "author": "deadka1313",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deadka1313/testchlad/issues"
+  },
+  "homepage": "https://github.com/deadka1313/testchlad#readme"
+}
